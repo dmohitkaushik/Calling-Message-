@@ -1,16 +1,3 @@
-/*
- * 
- * C by Nikodem Bartnik
- * http://www.instructables.com/member/Nikus/
- * https://spongepie.com/
- * http://arduinopolska.cba.pl/
- * 
- * 
- * 
- * 
- */
-
-
 #include <LGSM.h>
 
 String remoteNumber;
